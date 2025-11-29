@@ -1,4 +1,4 @@
-## Hi there 👋
+## Please stay 100m behind this vehicle at all times 
 
 <!--
 **LatridellActiveX/LatridellActiveX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a script kiddie <br> <br> 
+_I will populate your project with dogwater slop_ <br><br> 
+All in good time bretheren
