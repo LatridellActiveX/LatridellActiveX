@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a script kiddie <br> <br> 
+
+This ends in two ways:
+<br><br>
+_I give you a project idea, make you code it, and give you all the credit_ | |
+<br><br>
 _I will populate your project with dogwater slop_ <br><br> 
 All in good time bretheren
