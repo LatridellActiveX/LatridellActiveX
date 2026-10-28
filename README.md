@@ -26,7 +26,3 @@ I draw inspiration from: <br><br>
 
 Check out my random [low poly city game](https://lowpoly-city.vercel.app/)
 
-
-
-_I will populate your project with dogwater slop_ <br><br> 
-Please consider supporting my [Lung Cancer Research](https://latridellactivex.github.io)
