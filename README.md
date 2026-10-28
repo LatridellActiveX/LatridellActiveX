@@ -1,4 +1,4 @@
-## Please stay 100m behind this vehicle at all times 
+## Please stay 100 feet behind this vehicle at all times 
 
 <!--
 **LatridellActiveX/LatridellActiveX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a script kiddie <br> <br> 
+Web developer turned vibe coder.  <br> <br> 
 
 🔭 I’m currently working on making life for sadboy devs more interesting. 
 
@@ -23,9 +23,10 @@ I draw inspiration from: <br><br>
 
 [Lifeup](https://github.com/Ayagikei/LifeUp)
 
-This ends in two ways:
-<br><br>
-_I give you a project idea, make you code it, and give you all the credit_ | |
-<br><br>
+
+Check out my random [low poly city game](https://lowpoly-city.vercel.app/)
+
+
+
 _I will populate your project with dogwater slop_ <br><br> 
 Please consider supporting my [Lung Cancer Research](https://latridellactivex.github.io)
